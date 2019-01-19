@@ -89,5 +89,6 @@ There are **three main creatures** living on the Yggdrasil:
 8. **Svartalfheim** - World of Black Albums (Dwarfs)
 9. **Helheim** - the hell, where the soul goes.
 
-As for how these nine worlds are arranged on the Yggdrasil, there are many different models:
-![model_1](https://github.com/Ray-Fan/Mexico/blob/master/model_1.jpg)
+As for how these nine worlds are arranged on the Yggdrasil, there are many different models. Below is one of the models that fits the
+descriptions above:
+<img src="https://github.com/Ray-Fan/Norse-Mythology/blob/master/model_1.jpg" width="400" height="550">
