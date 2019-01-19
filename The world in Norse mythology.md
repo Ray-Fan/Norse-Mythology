@@ -6,30 +6,35 @@ The universe/world is just a chaos. There is just `a huge chasm`: **Ginunga**.
 
 On the `north` of it, it is **Niflheim**, `the land of ice and fog`. On this land, there is a spring, **Hvergelmir** (`bubbling boiling spring`), from which many rivers originate. One of the rivers is highly poisonous.
 
-On the `south` of it, it is **Muspelheim**, `the land of fire`. It is guarded by the giant **Surt**. He has a flaming sword. When he wields the sword, the sparks fall on the Ginunga and the ice melts, which generates lives. In this way, it creates: **Ymir**, `the ancestor of all giants`, and **Audhumbla**, `a giant cow`. Ymir lives on the milk of Audhumbla and Audhumbla licks the ice of Niflheim.
+On the `south` of it, it is **Muspelheim**, `the land of fire`. It is guarded by the giant **Surt**. He has a flaming sword. When he wields the sword, the sparks fall on the Ginunga and the ice melts, which generates lives: 
+* **Ymir**, `the ancestor of all giants`
+* **Audhumbla**, `a giant cow`. 
+* _Ymir lives on the milk of Audhumbla and Audhumbla licks the ice of Niflheim._
 
-Ymir gives birth to **12 giants**, in an unknown process.
+Ymir gives birth to **12 giants**, _in an unknown process_.
 
-As Audhumbla licks the ice, Búri is licked free from the salty ice, Buri is the ancestor of all the gods. Buri then gives birth 
-to his son Bor, in an unknown process, lol.
+As Audhumbla licks the ice, **Búri** _is licked free from the salty ice_, Buri is `the ancestor of all the gods`. Buri then gives birth 
+to `his son` *Bor*, in an unknown process, lol.
 
-Giants are affected by the poisonous river and become cruel and evil. Buri represents justice. Therefore, a big war is launched 
+`Giants are affected by the poisonous river and become cruel and evil. Buri represents justice`. Therefore, a big war is launched 
 between them and ended with giants’ victory.
 
-Bor marries one the giants and gives birth to Odin, Vili and Ve.
+_Bor marries one the giants_ and gives birth to *Odin, Vili and Ve*, `the three most important gods`.
 
 ## The death of Ymir: gods building the world
 
-Odin, Vili and Ve killed Ymir and almost all the giants. Only two giants, one male and one female, survived and fled to Jotunheim, 
-the Kingdom of Giants.
+Odin, Vili and Ve killed Ymir and almost all the giants. Only two giants, one male and one female, survived and fled to **Jotunheim**, 
+`the Kingdom of Giants`.
 
-The three gods, Odin, Vili and Vé, use the body of Ymir to build the world:
+_The three gods, Odin, Vili and Vé, use **the body of Ymir** to build the world_:
 
-his flesh -> the earth; his blood -> the ocean
-his bones -> the mountains
-his hairs -> the trees
-this brain -> the could;  this skull -> the heavens
-his elbow -> Midgard, where human lives. It is between Niflheim and Muspelheim.
+* his flesh -> the earth 
+* his blood -> the ocean
+* his bones -> the mountains
+* his hairs -> the trees
+* this brain -> the could 
+* this skull -> the heavens
+* his elbow -> **Midgard**, `where human lives`. `It is between Niflheim and Muspelheim`.
 
 Odin takes the sparks from Muspelheim and use them to create the sun, moon and stars, then we the distinction between day and night. 
 Thus we have time.
