@@ -2,16 +2,13 @@
 
 ## The world before the death of Ymir: chaotic universe
 
-The universe/world is just a chaos. There is just a huge chasm: Ginunga. 
+The universe/world is just a chaos. There is just `a huge chasm`: **Ginunga**. 
 
-On the north of it, it is Niflheim, the land of ice and fog. On this land, there is a spring, from which many rivers originate. 
-One of the rivers is highly poisonous.
+On the `north` of it, it is **Niflheim**, `the land of ice and fog`. On this land, there is a spring, **Hvergelmir** (`bubbling boiling spring`), from which many rivers originate. One of the rivers is highly poisonous.
 
-On the south of it, it is Muspelheim, the land of fire. It is guarded by the giant Sur. He has a flaming sword. When he wields 
-the sword, the sparks fall on the Ginunga and the ice melts, which generates lives: Ymir, the ancestor of all giants, and  
-Audhumbla, a giant cow. Ymir lives on the milk of Audhumbla and Audhumbla licks the ice of Niflheim.
+On the `south` of it, it is **Muspelheim**, `the land of fire`. It is guarded by the giant **Surt**. He has a flaming sword. When he wields the sword, the sparks fall on the Ginunga and the ice melts, which generates lives. In this way, it creates: **Ymir**, `the ancestor of all giants`, and **Audhumbla**, `a giant cow`. Ymir lives on the milk of Audhumbla and Audhumbla licks the ice of Niflheim.
 
-Ymir gives birth to 12 giants, in an unknown process.
+Ymir gives birth to **12 giants**, in an unknown process.
 
 As Audhumbla licks the ice, Búri is licked free from the salty ice, Buri is the ancestor of all the gods. Buri then gives birth 
 to his son Bor, in an unknown process, lol.
