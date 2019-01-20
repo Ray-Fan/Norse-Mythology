@@ -1,5 +1,11 @@
 # The Formation of the World in Norse Mythology
 
+### Table of Contents
+**[The world before the death of Ymir: chaotic universe](#the-world-before-the-death-of-Ymir-:-chaotic-universe)**<br>
+**[The death of Ymir: gods building the world](#The-death-of-Ymir-:-gods-building-the-world)**<br>
+**[The world after Ymir’s death: Yggdrasil](#The-world-after-Ymir-’-s-death-:-Yggdrasil)**<br>
+**[The Nine Worlds](#The-Nine-Worlds)**<br>
+
 ## The world before the death of Ymir: chaotic universe
 
 ### Geography
