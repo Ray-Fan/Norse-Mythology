@@ -61,7 +61,7 @@ They made their own home, **Asgard**, `with gold and silver`.
 
 They also create **human**: `ask -> man; embla -> woman`.
 
-Ymir’s corpse began to rot. `The maggots grow on his corpse` become **dwarfs** and **elves**.
+Ymir’s corpse began to rot. `The maggots growing on his corpse` become **dwarfs**(dark, evil) and **elves**(light, kind).
 
 ## The world after Ymir’s death: Yggdrasil
 
@@ -95,12 +95,12 @@ Apart from the gods, human and other guys mentioned above, there are also three 
 
 1. **Asgard** - World of the Asen (gods).
 2. **Vanaheim** - World of Wanen (also Vanen, the "shining ones"), older deities, above all gods of fertility and agriculture.
-3. **Ljossalfheim** - World of Light Albums (Elves)
+3. **Ljossalfheim** - World of Elves
 4. **Midgard** - middle world, place of residence of the people
 5. **Jötunheim** - World of Giants
 6. **Niflheim** - the land of ice and fog.
 7. **Muspelheim** - the land of fire.
-8. **Svartalfheim** - World of Black Albums (Dwarfs)
+8. **Svartalfheim** - World of Dwarves.
 9. **Helheim** - the hell, where the soul goes.
 
 As for how these nine worlds are arranged on the Yggdrasil, there are many different models. Below is one of the models that fits the
