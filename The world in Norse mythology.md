@@ -6,13 +6,15 @@
 
 The universe/world is just a chaos. 
 
-_In the middle: **Ginunga**, `a huge chasm` separating two lands.
+_In the middle_: **Ginunga**, `a huge chasm` separating two lands.
 
 _On the north_: **Niflheim**, `the land of ice and fog`. On this land, there is a spring, **Hvergelmir** (`bubbling boiling spring`), from which many rivers originate. One of the rivers is highly poisonous.
 
+> Heim in German means home.
+
 _On the south_: **Muspelheim**, `the land of fire`. It is guarded by the giant **Surt**. 
 
-## Formation of life: Giants & Gods
+### Formation of life: Giants & Gods
 
 The giant Surt has a flaming sword. When he wields the sword, the sparks fall on the Ginunga and the ice melts, which generates lives: 
 * **Ymir**, `the ancestor of all giants`
@@ -24,7 +26,7 @@ Ymir gives birth to **12 giants**, _in an unknown process_.
 As Audhumbla licks the ice, **Búri** _is licked free from the salty ice_, Buri is `the ancestor of all the gods`. Buri then gives birth 
 to `his son` **Bor**, _in an unknown process_, lol.
 
-## War between giants and gods
+### War between giants and gods
 
 `Giants are affected by the poisonous river and become cruel and evil. Buri represents justice`. Therefore, a big war is launched 
 between them and ended with giants’ victory.
@@ -57,9 +59,11 @@ Ymir’s corpse began to rot. `The maggots grow on his corpse` become **dwarfs**
 
 ## The world after Ymir’s death: Yggdrasil
 
-`A giant tree, which connects the earth and the sky`. It becomes the whole world after the death of Ymir.
+`A giant tree, which connects the earth and the sky`. It becomes the whole world after the death of Ymir. Its flourishment and death is related to the fate of the world.
 
-Yggdrasil has **three giant primary roots**:
+### Three Primary Roots
+
+Yggdrasil is supported by three giant primary roots:
 
 * `_The first one_ connects Asgard` and has an important spring, **Urdarbrunnr**(`the well of Urda, Urd means fate`) besides. There live three norns (goddess), `representing past, present and future`.
 
@@ -68,14 +72,18 @@ Yggdrasil has **three giant primary roots**:
 * `_The third one_ connect Niflheim`. There is an important spring, **Hvergelmir** (`"bubbling boiling spring”`), which is the source of 
 numerous rivers.
 
-There are **three main creatures** living on the Yggdrasil:
+### Three Main Creatures
 
-`A dragon`, **Nidhogg**, lives at the third primary root, who gnaws at the root of Yggdrasil. When he bits through the roots, 
+Apart from the gods, human and other guys mentioned above, there are also three other main beings living on Yggdrasil:
+
+* `A dragon`, **Nidhogg**, lives at the third primary root, who gnaws at the root of Yggdrasil. When he bits through the roots, 
 **Ragnarök** (`"the twilight of the gods"`) will come.
 
-`An eagle` lives at the top of Yggdrasil. **Vedfolnir**, `a hawk sits between the eagles’ eyes`.
+* `An eagle` lives at the top of Yggdrasil. **Vedfolnir**, `a hawk sits between the eagles’ eyes`.
 
-`A squirrel`, **Ratatoskr**, who runs up and down on Yggdrasil and carries messages between the eagle and dragon.
+* `A squirrel`, **Ratatoskr**, who runs up and down on Yggdrasil and carries messages between the eagle and dragon.
+
+* There are also four elks, which also eats the leaves of Yggdrasil.
 
 ## The 9 Worlds
 
@@ -91,4 +99,5 @@ There are **three main creatures** living on the Yggdrasil:
 
 As for how these nine worlds are arranged on the Yggdrasil, there are many different models. Below is one of the models that fits the
 descriptions above:
+
 <img src="https://github.com/Ray-Fan/Norse-Mythology/blob/master/model_1.jpg" width="400" height="550">
