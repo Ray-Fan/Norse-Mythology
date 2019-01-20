@@ -1,9 +1,9 @@
 # The Formation of the World in Norse Mythology
 
 ### Table of Contents
-**[The world before the death of Ymir: chaotic universe](#the-world-before-the-death-of-Ymir-:-chaotic-universe)**<br>
-**[The death of Ymir: gods building the world](#The-death-of-Ymir-:-gods-building-the-world)**<br>
-**[The world after Ymir’s death: Yggdrasil](#The-world-after-Ymir-’-s-death-:-Yggdrasil)**<br>
+**[The world before the death of Ymir: chaotic universe](#the-world-before-the-death-of-Ymir:-chaotic-universe)**<br>
+**[The death of Ymir: gods building the world](#The-death-of-Ymir:-gods-building-the-world)**<br>
+**[The world after Ymir’s death: Yggdrasil](#The-world-after-Ymir’-s-death:-Yggdrasil)**<br>
 **[The Nine Worlds](#The-Nine-Worlds)**<br>
 
 ## The world before the death of Ymir: chaotic universe
@@ -91,7 +91,7 @@ Apart from the gods, human and other guys mentioned above, there are also three 
 
 * There are also four elks, which also eats the leaves of Yggdrasil.
 
-## The 9 Worlds
+## The Nine Worlds
 
 1. **Asgard** - World of the Asen (gods).
 2. **Vanaheim** - World of Wanen (also Vanen, the "shining ones"), older deities, above all gods of fertility and agriculture.
